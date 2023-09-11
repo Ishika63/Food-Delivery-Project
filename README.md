@@ -16,22 +16,6 @@ To use the food delivery prediction system, follow these steps:
 ## Data Description
 
 The dataset used in this project includes the following columns:
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-table, th, td {
-  border: 1px solid black;
-}
-
-th, td {
-  padding: 8px;
-  text-align: left;
-  background-color: white; /* Set the background color to white for all rows */
-}
-</style>
 
 | Column Name                | Description                                      |
 | -------------------------- | ------------------------------------------------ |
